@@ -1,0 +1,12 @@
+{
+  "name": "chase",
+  "description": "chasepeoplewhowork",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/peoplework"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
